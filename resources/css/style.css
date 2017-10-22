@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   text-align: center;
   font-family: helvetica;
@@ -45,3 +46,52 @@ copyright {
   text-align: left;
   background-color: dimgrey;
 }
+=======
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+#special {
+  color: white;
+}
+
+copyright {
+  font-size: 11px;
+  color: white;
+}
+
+#home, #special {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+
+#bottem {
+  text-align: left;
+  background-color: dimgrey;
+}
+>>>>>>> 97928262e00751b61618d03d1ea971cc95df4896
